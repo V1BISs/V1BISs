@@ -1,16 +1,24 @@
-## Hi there 👋
+# Andrey Samsonik
 
-<!--
-**V1BISs/V1BISs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Engineer · 3+ years · Micro-frontends
 
-Here are some ideas to get you started:
+[![Telegram](https://img.shields.io/badge/@andreyblackk-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/andreyblackk)
+[![Email](https://img.shields.io/badge/andreyv1bis@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andreyv1bis@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech
+
+<img src="https://skillicons.dev/icons?i=react,ts,redux,nextjs,webpack,jest,jenkins,graphql,tailwind,git,figma" />
+
+---
+
+## 📊 Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=V1BISs&show_icons=true&theme=dark&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Contact
+
+Telegram: [@andreyblackk](https://t.me/andreyblackk)
