@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About me
 
-Frontend developer with 3+ years of commercial experience at **SberTech**, working on enterprise banking applications used by thousands of active users.
+Frontend developer.
 
 I specialize in **micro-frontend architecture** (Webpack Module Federation), **performance optimization**, and building **clean, maintainable code** with TypeScript. I actively participate in code reviews and help teams establish better development practices.
 
